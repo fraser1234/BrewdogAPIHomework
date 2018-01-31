@@ -1,0 +1,50 @@
+main{
+  width: 300px;
+  margin: 0 auto;
+}
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+  font-size: 22px;
+  margin: 10px;
+}
+
+body {
+  background-image: url("images/beer.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.brewlogo {
+    height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+    height: 75px;
+    width: 75px;
+    position:fixed;margin-left:1000px;margin-top:550px;
+    border-radius:5px
+}
+
+.album{
+  padding: 5px;
+}
